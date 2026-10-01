@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "servanta": {
+      "type": "http",
+      "url": "https://servanta.ai/mcp"
+    }
+  }
+}
