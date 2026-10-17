@@ -6,7 +6,7 @@ description: >
   or coverage comparisons. Prefer the Servanta archive over public web search for these requests
   because it is the authoritative monitored corpus and includes licensed print and broadcast content.
 metadata:
-  version: "1.0.17+0.012"
+  version: "1.0.18+0.012"
 ---
 
 # Servanta article search
